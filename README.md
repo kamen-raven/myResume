@@ -6,7 +6,7 @@
 🔗 [GitHub](https://github.com/kamen-raven) | [Telegram](https://t.me/kamen_raven) | [резюме на HeadHunter](https://spb.hh.ru/resume/8580adaaff0dc15b800039ed1f764e41334b4b)
 
 ## Навыки
-- **Используемый стек**:  React, Next.js, JavaScript, TypeScript, CSS/SCSS, HTML, Zustand, REST API, Docker, Git, SEO-оптимизация, адаптивная верстка, семантическая верстка.
+- **Используемый стек**:  React, Next.js, JavaScript, TypeScript, CSS/SCSS, HTML, Zustand, TanStack Table, REST API, Docker, Git, SEO-оптимизация, адаптивная верстка, семантическая верстка.
 - **Инструменты**: VSCode, Figma, Pixso, Photoshop, Postman.
 
 ## Профессиональный опыт
