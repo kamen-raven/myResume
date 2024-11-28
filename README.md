@@ -1,18 +1,18 @@
 # Вячеслав Каменев
-**Frontend-разработчик (React, Next.js)**
+## Frontend-разработчик (React, Next.js)
 
 📍 Санкт-Петербург  
 🕘 офис / удаленная работа  
-📧 slava-stavropol@yandex.ru  
-🔗 [Telegram](https://t.me/kamen_raven)  
+▶️ [Telegram](https://t.me/kamen_raven)  
+📧 [slava-stavropol@yandex.ru](mailto:slava-stavropol@yandex.ru)  
 🔗 [резюме на HeadHunter](https://spb.hh.ru/resume/8580adaaff0dc15b800039ed1f764e41334b4b) | [резюме на GeekJob](https://gkjb.ru/gtpS)  
 :octocat: [GitHub](https://github.com/kamen-raven)   
-🔤 Английский — B1 — Средний  
 
 
 ## Навыки
 - **Используемый стек**:  React, Next.js, JavaScript, TypeScript, CSS/SCSS, HTML, Zustand, TanStack Table, REST API, Docker, Git, UI-библиотеки PrimeReact, SEO-оптимизация, адаптивная верстка, семантическая верстка, БЭМ.
 - **Инструменты**: VSCode, Figma, Pixso, Adobe Photoshop, Postman.
+- **Английский**: B1 (Средний), чтение технической документации  
 
 ---
 
